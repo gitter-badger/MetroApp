@@ -1,5 +1,7 @@
 # MetroApp
 
+[![Join the chat at https://gitter.im/MetroAppProject/community](https://badges.gitter.im/MetroAppProject/community.svg)](https://gitter.im/MetroAppProject/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is an app being built using Flutter for Metro Stations across the World. As of now, we are building the Metro Map for Hyderabad, Delhi, Bangalore, Kolkata, Mumbai, Chennai, Dubai, and Singapore. We are trying to implement all these metro places in a Single Application.
 
 
